@@ -1,3 +1,3 @@
-layout: page
+layout: "page"
 title: "Proyecto Coursera"
-permalink: /Index.html
+permalink: "/index.html"

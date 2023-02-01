@@ -1,0 +1,58 @@
+.header-title{
+    padding-top: 40px;
+    background-color: lightblue;
+    color:black;
+    text-align: justify;
+}
+.header-img{
+    left:0;
+    padding:0 auto;
+    position:relative;
+    align-items: initial;
+    height:50px;
+}
+.navbar {
+    background-color: blue;
+    color: white;
+}
+.navbar-brand {
+    background-color: blue;
+    color: white;
+}
+.navbar-nav > li >a{
+    background-color: blue;
+    color: white;
+}
+.breadcrumb{
+    padding:0 auto;
+}
+.text-content{
+    color:red;
+    text-align: center;
+}
+.contenedor{
+    position: relative;
+    top:0;
+    display: inline-block;
+    text-align: center;
+}
+ 
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.table-header{
+    background-color: blueviolet;
+    color:white;
+    font-weight: bold;
+}
+.table-title{
+    background-color: blue;
+    color:floralwhite;
+}
+.table-item{
+    color:black;
+    border-style:solid;
+}

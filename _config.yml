@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: Proyecto Coursera Bootstrap
-description: Proyecto de Finalizacion de Curso Bootstrap 4
+theme: "jekyll-theme-minimal"
+title: "Proyecto Coursera Bootstrap"
+description: "Proyecto de Finalizacion de Curso Bootstrap 4"
+
